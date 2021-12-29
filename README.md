@@ -4,7 +4,6 @@
 </p>
 
 ## Smart contract for The TiiN Rabbit Collection deployed on [Binance Smart Chain](https://bscscan.com).
----
 
 - Contract on [Binance Smart Chain Explorer](https://bscscan.com/address/0x81213f7aaA7983C8E38e5499B10Ce5997C4ba582)   
 
