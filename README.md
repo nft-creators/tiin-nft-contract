@@ -1,1 +1,1 @@
-# tiin-nft-contract
+# tiin-rabbits-contract
